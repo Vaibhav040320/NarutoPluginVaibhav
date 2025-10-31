@@ -1,0 +1,6 @@
+name: NarutoPluginVaibhav
+main: com.vaibhav.naruto.NarutoUniversePlugin
+version: 1.0.0
+api-version: 1.21
+author: Vaibhav
+description: Naruto Paper Plugin
